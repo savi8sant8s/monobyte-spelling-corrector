@@ -1,0 +1,9 @@
+noisocr
+editdistance
+transformers[torch]==4.37.2
+datasets
+evaluate
+jiwer
+flax
+tensorboard
+wrapt

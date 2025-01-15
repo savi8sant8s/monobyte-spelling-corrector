@@ -1,0 +1,1 @@
+Download: https://github.com/savi8sant8s/ptbr-post-ocr-sc-llm/blob/main/train_data/combined_prompts.csv.zip
